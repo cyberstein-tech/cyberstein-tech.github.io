@@ -1,2 +1,2 @@
-# cyberstein-tech.github.io.
-Static website sorta
+https://cyberstein.tech
+Personal website built using Nginx-admin - Angular.
