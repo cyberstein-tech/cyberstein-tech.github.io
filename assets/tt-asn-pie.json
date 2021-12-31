@@ -16,7 +16,7 @@
 "AS264793 - NETWORK TECHNOLOGIES LIMITED",
 "AS263176 - University of Trinidad & Tobago (UTT)"],
 "SeriesData":[
-{ "value": 299008, "name":  "AS5639 - Telecommunication Services of Trinidad and Tobago"},
+{ "value": 299264, "name":  "AS5639 - Telecommunication Services of Trinidad and Tobago"},
 { "value": 148736, "name":  "AS27665 - Columbus Communications Trinidad Limited."},
 { "value": 35072, "name":  "AS27789 - GREENDOT"},
 { "value": 16384, "name":  "AS11947 - Cablenett Limited"},
@@ -31,5 +31,5 @@
 { "value": 1024, "name":  "AS264811 - AIR LINK COMMUNICATIONS"},
 { "value": 1024, "name":  "AS264793 - NETWORK TECHNOLOGIES LIMITED"},
 { "value": 0, "name":  "AS263176 - University of Trinidad & Tobago (UTT)"}],
-"LastUpdated": "2021-12-19"
+"LastUpdated": "2021-12-31"
 }
