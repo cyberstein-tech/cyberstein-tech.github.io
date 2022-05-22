@@ -9,14 +9,14 @@
 "AS27924 - AMPLIA COMMUNICATIONS LTD.",
 "AS26317 - Lisa Communications Ltd",
 "AS61478 - AIR LINK COMMUNICATIONS",
-"AS28067 - The University of the West Indies",
 "AS270040 - TRICO INDUSTRIES LIMITED",
 "AS266792 - NOVO COMMUNICATIONS LIMITED",
 "AS264811 - AIR LINK COMMUNICATIONS",
 "AS264793 - NETWORK TECHNOLOGIES LIMITED",
+"AS28067 - The University of the West Indies",
 "AS263176 - University of Trinidad & Tobago (UTT)"],
 "SeriesData":[
-{ "value": 299264, "name":  "AS5639 - Telecommunication Services of Trinidad and Tobago"},
+{ "value": 299008, "name":  "AS5639 - Telecommunication Services of Trinidad and Tobago"},
 { "value": 148736, "name":  "AS27665 - Columbus Communications Trinidad Limited."},
 { "value": 35072, "name":  "AS27789 - GREENDOT"},
 { "value": 16384, "name":  "AS11947 - Cablenett Limited"},
@@ -25,11 +25,11 @@
 { "value": 7168, "name":  "AS27924 - AMPLIA COMMUNICATIONS LTD."},
 { "value": 3584, "name":  "AS26317 - Lisa Communications Ltd"},
 { "value": 3072, "name":  "AS61478 - AIR LINK COMMUNICATIONS"},
-{ "value": 2816, "name":  "AS28067 - The University of the West Indies"},
 { "value": 1024, "name":  "AS270040 - TRICO INDUSTRIES LIMITED"},
 { "value": 1024, "name":  "AS266792 - NOVO COMMUNICATIONS LIMITED"},
 { "value": 1024, "name":  "AS264811 - AIR LINK COMMUNICATIONS"},
 { "value": 1024, "name":  "AS264793 - NETWORK TECHNOLOGIES LIMITED"},
+{ "value": 512, "name":  "AS28067 - The University of the West Indies"},
 { "value": 0, "name":  "AS263176 - University of Trinidad & Tobago (UTT)"}],
-"LastUpdated": "2021-12-31"
+"LastUpdated": "2022-05-22"
 }
